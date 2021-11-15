@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Consultant Botaniste"
   company = "Institut Hospitalo-Universitaire Méditerranée Infection. Microbes, Évolution, Phylogénie et Infection (MEPHI)"
@@ -33,7 +34,20 @@ date_format = "Jan 2006"
   * Rédaction d'articles
   * Composition de posters
   """
-
+[[experience]]
+  title = "Assitant Gestionnaire Projet"
+  company = "CIRAD"
+  company_url = "https://www.cirad.fr"
+  location = "Yamoussoukro, Côte d'Ivoire"
+  date_start = "2021-02-01"
+  date_end = ""
+  description = """
+  Dans le cadre du projet [ForestInnov](https://forestinnov.cirad.fr) : 
+  * Assurer la production de capsules pédagogiques, présentant les différentes étapes de la mise en place d'une parcelle forestière innovante. Trouver une équipe de vidéastres, proposer un script, mettre en scène des séquences
+  * Contribuer à la rédaction de fiches techniques sur les essences d'arbres qui pourraient être utilisés dans des systèmes agro-forestiers
+  * L'entretien sur un Démonstrateur, une plantation forestière en mélange de 25 ha, mis en place dans la forêt classée de la Téné sur administration de la [SODEFOR](http://www.sodefor.ci)
+  * Organiser un atelier de restitution auquel à pris par des représentants de la du FIRCA-FICIAD, du Ministère des Eaux et Forêts, de la Sodefor, du Conseil Régional du Bélier, de la société INPROBOIS
+  """
 
 [[experience]]
   title = "Chargé de cours de Biologie Végétale"
