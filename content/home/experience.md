@@ -42,8 +42,10 @@ date_format = "Jan 2006"
   date_start = "2021-02-01"
   date_end = ""
   description = """
-  Dans le cadre du projet [ForestInnov](https://forestinnov.cirad.fr) : 
+  Dans le cadre du projet [ForestInnov](https://forestinnov.cirad.fr)
   
+  Le projet ForestInnov a pour objectif général de promouvoir des itinéraires techniques maximisant la productivité et les services écosystémiques grâce à des plantations en mélange d'espèces autochtones. 
+  Dans ce cadre, mes fonctions ont été : 
   * Assurer la production de capsules pédagogiques, présentant les différentes étapes de la mise en place d'une parcelle forestière innovante. Trouver une équipe de vidéastres, proposer un script, mettre en scène des séquences
   * Contribuer à la rédaction de fiches techniques sur les essences d'arbres qui pourraient être utilisés dans des systèmes agro-forestiers
   * L'entretien sur un Démonstrateur, une plantation forestière en mélange de 25 ha, mis en place dans la forêt classée de la Téné sur administration de la [SODEFOR](http://www.sodefor.ci)
