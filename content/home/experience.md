@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   * Composition de posters
   """
 [[experience]]
-  title = "Assitant Gestionnaire Projet"
+  title = "Assistant Gestionnaire Projet"
   company = "CIRAD"
   company_url = "https://www.cirad.fr"
   location = "Yamoussoukro, Côte d'Ivoire"
