@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | EhoumanEvans</title>
+    <link>http://ehoumanevans.netlify.app/courses/example/</link>
+      <atom:link href="http://ehoumanevans.netlify.app/courses/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ehoumanevans.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Overview</title>
+      <link>http://ehoumanevans.netlify.app/courses/example/</link>
+    </image>
+    
+    <item>
+      <title>Introduction à la Biologie Végétale</title>
+      <link>http://ehoumanevans.netlify.app/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://ehoumanevans.netlify.app/courses/example/example1/</guid>
+      <description>&lt;p&gt;Ce cours est une introduction à la Botanique et au Monde végétal en général.&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Généralité sur la Biologie&lt;/li&gt;
+&lt;li&gt;Classification des plantes&lt;/li&gt;
+&lt;li&gt;Intérêt de l&amp;rsquo;étude de la Botanique et Service Ecosystémique de la plante&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-champignons&#34;&gt;Les Champignons&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition&lt;/li&gt;
+&lt;li&gt;Appareil végétatif&lt;/li&gt;
+&lt;li&gt;Nutrition et mode de vie&lt;/li&gt;
+&lt;li&gt;Reproduction&lt;/li&gt;
+&lt;li&gt;Classification des champignons&lt;/li&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-algues&#34;&gt;Les Algues&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Généralités&lt;/li&gt;
+&lt;li&gt;Caractères morphologiques&lt;/li&gt;
+&lt;li&gt;Appareil plastidial&lt;/li&gt;
+&lt;li&gt;Caractères généraux de la reproduction&lt;/li&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-bryophytes&#34;&gt;Les Bryophytes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Généralités&lt;/li&gt;
+&lt;li&gt;Caractères généraux de la reproduction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproduction asexuée&lt;/li&gt;
+&lt;li&gt;Reproduction sexuée&lt;/li&gt;
+&lt;li&gt;Cycle de développement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-ptéridophytes&#34;&gt;Les Ptéridophytes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Généralités&lt;/li&gt;
+&lt;li&gt;Caractères généraux de la reproduction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproduction asexuée&lt;/li&gt;
+&lt;li&gt;Reproduction sexuée&lt;/li&gt;
+&lt;li&gt;Cycle de développement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-gymnospermes&#34;&gt;Les Gymnospermes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Généralités&lt;/li&gt;
+&lt;li&gt;Caractères généraux de la reproduction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproduction asexuée&lt;/li&gt;
+&lt;li&gt;Reproduction sexuée&lt;/li&gt;
+&lt;li&gt;Cycle de développement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-angiospermes&#34;&gt;Les Angiospermes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Appareil végétatif&lt;/li&gt;
+&lt;li&gt;Appareil reproducteur&lt;/li&gt;
+&lt;li&gt;Multiplication végétative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiplication végétative naturelle&lt;/li&gt;
+&lt;li&gt;Multiplication végétative artificielle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;extra&#34;&gt;Extra&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Devoir&lt;/li&gt;
+&lt;li&gt;Rattrapage&lt;/li&gt;
+&lt;li&gt;Tutorat&lt;/li&gt;
+&lt;li&gt;Travaux de terrain&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biologie des Embryophytes</title>
+      <link>http://ehoumanevans.netlify.app/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://ehoumanevans.netlify.app/courses/example/example2/</guid>
+      <description>&lt;p&gt;Ce cours est une description des Embryophytes. Il aborde les questions relatives à l&amp;rsquo;appareil végétatif et l&amp;rsquo;appareil reproducteur des Embryophytes.&lt;/p&gt;
+&lt;h2 id=&#34;appareil-végétatif-de-la-plante&#34;&gt;Appareil végétatif de la plante&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Différents types de racines&lt;/li&gt;
+&lt;li&gt;Différents types de tiges&lt;/li&gt;
+&lt;li&gt;Différents types de feuilles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;appareil-reproducteur-de-la-plante&#34;&gt;Appareil reproducteur de la plante&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Biologie florale&lt;/li&gt;
+&lt;li&gt;Graines et fruits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;croissance-en-longueur-de-la-plante&#34;&gt;Croissance en longueur de la plante&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notion de méristème&lt;/li&gt;
+&lt;li&gt;Notion de phytomères&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;multiplication-ou-reproduction-des-plantes&#34;&gt;Multiplication ou reproduction des plantes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproduction asexuée&lt;/li&gt;
+&lt;li&gt;Multiplication des plantes à fleurs&lt;/li&gt;
+&lt;li&gt;Cycle végétatif de la plante&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;extra&#34;&gt;Extra&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Devoir&lt;/li&gt;
+&lt;li&gt;Rattrapage&lt;/li&gt;
+&lt;li&gt;Tutorat&lt;/li&gt;
+&lt;li&gt;Travaux de terrain&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Élément de Physiologie végétale</title>
+      <link>http://ehoumanevans.netlify.app/courses/example/example3/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://ehoumanevans.netlify.app/courses/example/example3/</guid>
+      <description>&lt;p&gt;Ce cours aborde les questions relatives à la production des métabolites primaires des végétaux. Il traite également du comportement des végétaux vis-à-vis des facteurs abiotiques et des facteurs biotiques du milieu.&lt;/p&gt;
+&lt;h2 id=&#34;absorption-de-leau-et-des-éléments-minéraux&#34;&gt;Absorption de l’eau et des éléments minéraux&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mécanisme d’absorption de l’eau et des éléments minéraux&lt;/li&gt;
+&lt;li&gt;Conditions d’absorption&lt;/li&gt;
+&lt;li&gt;Notion de carence et d’interaction&lt;/li&gt;
+&lt;li&gt;La sève brute&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Mécanisme d&amp;rsquo;ascension de la sève brute&lt;/li&gt;
+&lt;li&gt;Composition de la sève brute&lt;/li&gt;
+&lt;li&gt;Intérêt économique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;transformation-de-la-sève-brute-en-sève-élaborée&#34;&gt;Transformation de la sève brute en sève élaborée&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;La chlorophylle&lt;/li&gt;
+&lt;li&gt;Mécanisme de transformation&lt;/li&gt;
+&lt;li&gt;Composition de la sève élaborée&lt;/li&gt;
+&lt;li&gt;Circulation de la sève élaborée&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facteurs-de-croissance&#34;&gt;Facteurs de croissance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hormones&lt;/li&gt;
+&lt;li&gt;Physique (Lumière &amp;amp; Température)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;extra&#34;&gt;Extra&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Devoir&lt;/li&gt;
+&lt;li&gt;Rattrapage&lt;/li&gt;
+&lt;li&gt;Tutorat&lt;/li&gt;
+&lt;li&gt;Travaux de terrain&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
