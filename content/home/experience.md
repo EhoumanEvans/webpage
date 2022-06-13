@@ -91,4 +91,20 @@ date_format = "Jan 2006"
   description = """
   Mise en oeuvre de l'évaluation des impacts d'un projet de plantation en mélange en Côte d'Ivoire sur la base d'un protocole élaboré conjoitenement entre le CATIE, CIFOR et le CIRAD. Cette expertise a consisté dans un premier temps à sélectionner des sites potentiels pour l'évaluation, puis à réaliser des visites de terrain ainsi que des entretiens et enfin à rédiger d'un rapport (en cours de validation).
   """
+
+[[experience]]
+  title = "Assistant Gestionnaire Projet"
+  company = "CIRAD"
+  company_url = "https://www.cirad.fr"
+  location = "Yamoussoukro, Côte d'Ivoire"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = """
+  Dans le cadre du projet [Terri4ol](https://www.cirad.fr/en/press-area/press-releases/2021/soil-restoration-in-cote-d-ivoire).
+  
+  Le projet Terri4Sol vise à promouvoir des pratiques de gestion durable du carbone organique des sols en Côte d’Ivoire.
+  
+  Terri4Sol s’attachera ainsi à fournir des éléments scientifiques pour orienter les politiques publiques du gouvernement ivoirien en matière de gestion de terre.
+  
+"""  
 +++
