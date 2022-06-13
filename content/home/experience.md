@@ -80,5 +80,15 @@ date_format = "Jan 2006"
   * Transcription de supports de cours audio de l'Anglais, puis traduction en Français
   * Composition de kits de formation
   """
-  
+
+[[experience]]
+  title = " Freelance Auditeur / Evaluation Socio-économique des Plantations Forestières en mélange"
+  company = "FTA : Forests, Trees and Agroforestry"
+  company_url = "https://www.foreststreesagroforestry.org"
+  location = "Yamoussoukro, Côte d'Ivoire"
+  date_start = "2021-08-01"
+  date_end = "2021-12-21"
+  description = """
+  Mise en oeuvre de l'évaluation des impacts d'un projet de plantation en mélange en Côte d'Ivoire sur la base d'un protocole élaboré conjoitenement entre le CATIE, CIFOR et le CIRAD. Cette expertise a consisté dans un premier temps à sélectionner des sites potentiels pour l'évaluation, puis à réaliser des visites de terrain ainsi que des entretiens et enfin à rédiger d'un rapport (en cours de validation).
+  """
 +++
