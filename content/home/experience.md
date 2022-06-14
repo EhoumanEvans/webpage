@@ -100,7 +100,7 @@ date_format = "Jan 2006"
   date_start = "2022-03-01"
   date_end = ""
   description = """
-  Dans le cadre du projet [Terri4ol](https://www.cirad.fr/en/press-area/press-releases/2021/soil-restoration-in-cote-d-ivoire).
+  Dans le cadre du projet [Terri4sol](https://www.cirad.fr/en/press-area/press-releases/2021/soil-restoration-in-cote-d-ivoire).
   
   Le projet Terri4Sol vise à promouvoir des pratiques de gestion durable du carbone organique des sols en Côte d’Ivoire.
   
