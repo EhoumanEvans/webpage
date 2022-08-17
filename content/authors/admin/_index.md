@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include numerial ecology, social data collect and analysis, plant diversity and human health interaction with its environment.
+bio: My research interests include numerical ecology, social data collect and analysis, plant diversity and human health interaction with its environment.
 education:
   courses:
   - course: PhD en Botanique
