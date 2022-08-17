@@ -4,6 +4,9 @@ authors:
 bio: My research interests include numerical ecology, social data collect and analysis, plant diversity and human health interaction with its environment.
 education:
   courses:
+  - course: PostDoc on Mixed Forest Plantation Management
+    institution: CIRAD-Yamoussoukro With Bruno HERAULT
+    year: 2021
   - course: PhD en Botanique
     institution: Université Nangui Abrogoua
     year: 2019
