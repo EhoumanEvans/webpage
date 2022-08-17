@@ -22,7 +22,7 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/EhoumanEvans/repro_research_satRday
-location: On line
+location: Online
 math: true
 projects:
 - internal-project
