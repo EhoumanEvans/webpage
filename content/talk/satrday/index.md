@@ -18,22 +18,22 @@ image:
   caption: 'Image credit: [**SatRDay**]()'
   focal_point: Right
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/ehoumanevans
+  name: GitHub
+  url: https://github.com/EhoumanEvans/repro_research_satRday
 location: On line
 math: true
 projects:
 - internal-project
 publishDate: "2022-08-16T00:00:00Z"
-slides: example
-summary: Apprendre les principes de la recherche reproductible avec R. 
+slides: 
+summary: Apprendre les principes de base de la recherche reproductible avec R. 
 tags: []
 title: Recherche Reproductible à partir de R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: " "
 url_video: ""
 ---
 

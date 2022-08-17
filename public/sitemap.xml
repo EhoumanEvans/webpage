@@ -14,11 +14,17 @@
     <loc>/courses/example/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2022-08-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-08-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/satrday/</loc>
+    <lastmod>2022-08-06T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2020-08-16T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-08-16T21:13:14-05:00</lastmod>
@@ -99,9 +105,6 @@
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/example/</loc>
-    <lastmod>2019-09-12T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
     <lastmod>2019-09-12T17:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/writing-technical-content/</loc>
