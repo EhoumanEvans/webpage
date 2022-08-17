@@ -6,7 +6,7 @@ address:
   country: Côte d'Ivoire
   postcode: "1335"
   region: 
-  street: 39 logments
+  street: 39 Logments
 all_day: false
 authors: []
 date: "2022-08-06T9:00:00Z"
@@ -31,10 +31,8 @@ slides:
 summary: Apprendre les principes de base de la recherche reproductible avec R. 
 tags: []
 title: Recherche Reproductible à partir de R
-url_code: ""
-url_pdf: ""
-url_slides: " "
-url_video: ""
+url_code: "https://github.com/EhoumanEvans/repro_research_satRday/blob/master/doc/repro_research_SatRdays_doc.Rmd"
+url_slides: "https://github.com/EhoumanEvans/repro_research_satRday/blob/master/doc/repro_research_prez_doc.docx"
 ---
 
 {{% alert note %}}
